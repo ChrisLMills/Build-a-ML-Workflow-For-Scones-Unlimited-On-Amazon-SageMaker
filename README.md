@@ -23,7 +23,9 @@ Here is the array I used to successfully test the Map State.
 
 [
   {"image_data": "", "s3_bucket": "sagemaker-us-east-1-126817106120", "s3_key": "test/motorcycle_s_001960.png"},
+  
   {"image_data": "", "s3_bucket": "sagemaker-us-east-1-126817106120", "s3_key": "test/minibike_s_002051.png"},
+  
   {"image_data": "", "s3_bucket": "sagemaker-us-east-1-126817106120", "s3_key": "test/motorcycle_s_000141.png"}
 ]
 
