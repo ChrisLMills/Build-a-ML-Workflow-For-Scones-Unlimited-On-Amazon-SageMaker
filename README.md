@@ -1,6 +1,9 @@
 # Build-a-ML-Workflow-For-Scones-Unlimited-On-Amazon-SageMaker
 
-In this project, I created 3 Lambda functions to form a prediction pipeline using a Step Function.
+In this project, I used the Imagae Classification AWS container and SageMaker to make predictions on two classes of image from the CIFAR dataset. There are 'bicycle' and 'motorbike'.
+The training was done on a train set drawn from a subset of the CIFAR dataset containing these two classes. 
+
+I created 3 Lambda functions to form a prediction pipeline using a Step Function.
 
 The Lambda functions can be found in the Lambda.py file included in this repository. 
 
